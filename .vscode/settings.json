@@ -1,0 +1,7 @@
+{
+  "editor.defaultFormatter": "dsznajder.es7-react-js-snippets",
+  "notebook.defaultFormatter": "dsznajder.es7-react-js-snippets",
+  "emmet.showSuggestionsAsSnippets": true,
+  "emmet.useInlineCompletions": true,
+  "emmet.triggerExpansionOnTab": true
+}
